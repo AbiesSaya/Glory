@@ -1,0 +1,10 @@
+README.md
+setup.py
+glory/__init__.py
+glory/glory.py
+glory_ssh.egg-info/PKG-INFO
+glory_ssh.egg-info/SOURCES.txt
+glory_ssh.egg-info/dependency_links.txt
+glory_ssh.egg-info/entry_points.txt
+glory_ssh.egg-info/requires.txt
+glory_ssh.egg-info/top_level.txt

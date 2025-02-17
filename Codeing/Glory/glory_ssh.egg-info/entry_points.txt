@@ -1,0 +1,2 @@
+[console_scripts]
+glory = glory.glory:main
